@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 i made changes in this documents.
+=======
+commited in master
+>>>>>>> 7eddd42... commited in master branch
